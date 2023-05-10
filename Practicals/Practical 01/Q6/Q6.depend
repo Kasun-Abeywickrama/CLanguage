@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670161189 source:c:\users\hp\onedrive - nsbm\c programming\practical\practical 01\q6\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
